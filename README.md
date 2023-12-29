@@ -25,7 +25,14 @@ Here are some of the key features I implemented:
 
 ✅ Preventing Security Vulnerabilities : I took extensive measures to protect the app from security threats like Mongo injection and XSS attacks.
 
-✅ EJS as a Template Engine : I used EJS to create dynamic HTML templates and efficiently display content to users.
+✅ EJS as a Template Engine : I used EJS to create dynamic HTML templates and efficiently display 
 
 ✅ Leaflet for maps : I used leaflet to design and style the map, ensuring a clean and responsive layout.
- 
+
+
+## Demo Video
+https://github.com/Krunal-Karena/YelpCamp/assets/99881021/671ee705-3bed-42a4-9075-4221ede15743
+
+
+
+
